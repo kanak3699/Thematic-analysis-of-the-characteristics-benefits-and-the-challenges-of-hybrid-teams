@@ -202,50 +202,65 @@ the hybrid teams structure and wants to understand it’s characteristics, benef
 ## REFERENCES
 [1] Jing Qian Bin Wang, Yukun Liu and Sharon K. Parker. 2020. Achieving Effective Remote Working During the COVID-19 Pandemic: A Work Design
 Perspective. Applied Psychology 70, 1 (October 2020), 16–59. https://doi.org/10.1111/apps.12290
+
 [2] Jennifer J. Deal and Alec Levenson. 2021. Figuring Out Social Capital Is Critical for the Future of Hybrid Work. MIT Sloan Management Review
-62, 4 (2021), 1–4. https://ezproxy.library.dal.ca/login?url=https://www.proquest.com/scholarly-journals/figuring-out-social-capital-is-criticalfuture/
-docview/2562949271/se-2?accountid=10406
+62, 4 (2021), 1–4. https://ezproxy.library.dal.ca/login?url=https://www.proquest.com/scholarly-journals/figuring-out-social-capital-is-criticalfuture/docview/2562949271/se-2?accountid=10406
+
 [3] Dezhi Wu Elizabeth Avery Gomez and Katia Passerini. 2009. Traditional, hybrid and online teamwork: Lessons from the field. Communications of
 the Association for Information Systems 25, 33 (2009). https://doi.org/10.17705/1cais.02533
+
 [4] Bahadır Geniş Erman Şentürk, Eser Sağaltıcı and Ömür Günday Toker. 2021. Predictors of depression, anxiety and stress among remote workers
 during the COVID-19 pandemic. Work 70, 1 (jan 2021), 41–51. https://doi.org/10.3233/wor-210082
+
 [5] Christine Ipsen Kathrin Kirchner Ettore Bolisani, Enrico Scarso and John Paulin Hansen. 2020. Working from home during COVID-19 pandemic:
 Lessons learned and issues: Lessons learned and issues. Management Marketing, Challenges for the Knowledge Society 15, s1 (October 2020), 458–476.
 https://doi.org/10.2478/mmcks-2020-0027
+
 [6] Lynda Gratton. 2021. Four Principles to Ensure Hybrid Work Is Productive Work. MIT Sloan Management Review 62, 2 (2021), 11A–
-16A. https://ezproxy.library.dal.ca/login?url=https://www.proquest.com/scholarly-journals/four-principles-ensure-hybrid-work-is-productive/
-docview/2471848716/se-2?accountid=10406
+16A. https://ezproxy.library.dal.ca/login?url=https://www.proquest.com/scholarly-journals/four-principles-ensure-hybrid-work-is-productive/docview/2471848716/se-2?accountid=10406
+
 [7] Martine Haas. 2022. 5 challenges of hybrid work - and how to overcome them. Harvard Business Review (February 2022). https://hbr.org/2022/02/5-
 challenges-of-hybrid-work-and-how-to-overcome-them
+
 [8] Susan Halford. 2005. Hybrid workspace: Re-spatialisations of work, Organisation and Management. New Technology, Work and Employment 20, 1
 (March 2005), 19–33. https://doi.org/10.1111/j.1468-005x.2005.00141.x
+
 [9] Eryn Juan He and Joel Goh. 2021. Profit or growth? Dynamic Order allocation in a hybrid workforce. Management Science 0, 0 (November 2021),
 1–16. https://doi.org/10.1287/mnsc.2021.4177
+
 [10] Asiya Islam. 2022. Work-from/at/for-home: CoVID-19 and the future of work – A critical review. Geoforum 128, 1 (Jan. 2022), 33–36. https:
 //doi.org/10.1016/j.geoforum.2021.11.018
+
 [11] Geoffrey J. Leonardelli. 2022. Lessons from a crisis: Identity as a Means of Leading Remote Workforces Effectively. Organizational Dynamics
 (February 2022), 100886. https://doi.org/10.1016/j.orgdyn.2021.100886
+
 [12] Denae Ford Makayla Moster and Paige Rodeghero. 2021. is my mic on? preparing SE students for collaborative remote work and Hybrid Team
 Communication. IEEE/ACM 43rd International Conference on Software Engineering: Software Engineering Education and Training (2021), 89–94.
 https://doi.org/10.1109/icse-seet52601.2021.00018
+
 [13] Prashant Mehta. 2021. Work from home—work engagement amid Covid-19 Lockdown and employee happiness. Journal of Public Affairs 21, 4
 (November 2021), 2709. https://doi.org/10.1002/pa.2709
+
 [14] Masayuki Morikawa. 2021. Work-from-home productivity during the Covid-19 pandemic: Evidence from Japan. Economic Inquiry 60, 2 (November
 2021), 508–527. https://doi.org/10.1111/ecin.13056
+
 [15] S. Balamurugan Mozhe Liu and Tamizharasi G. Seetharam. 2021. Impact of stress on software developers by moderating the relationship through
 emotional intelligence in a work environment. Aggression and Violent Behavior (2021), 101609. https://doi.org/10.1016/j.avb.2021.101609
-[16] Lalband Neelu and D. Kavitha. 2021. Estimation of software quality parameters for hybrid agile process model. SN Applied Sciences 3, 296 (February
-2021). https://doi.org/10.1007/s42452-021-04305-0
+
+[16] Lalband Neelu and D. Kavitha. 2021. Estimation of software quality parameters for hybrid agile process model. SN Applied Sciences 3, 296 (February 2021). https://doi.org/10.1007/s42452-021-04305-0
+
 [17] Joni Delanoeije Niels Gadeyne, Marijke Verbruggen and Rein De Cooman. 2018. All Wired, all tired? work-related ICT-use outside work hours and
 work-to-home conflict: The role of integration preference, integration norms and work demands. Journal of Vocational Behavior 107 (August 2018),
 86–99. https://doi.org/10.1016/j.jvb.2018.03.008
-[18] Wen Fan Phyllis Moen and Erin L. Kelly. 2013. Team-level flexibility, work–home spillover, and health behavior. Social Science Medicine 84 (February
-2013), 69–79. https://doi.org/10.1016/j.socscimed.2013.02.011
+
+[18] Wen Fan Phyllis Moen and Erin L. Kelly. 2013. Team-level flexibility, work–home spillover, and health behavior. Social Science Medicine 84 (February 2013), 69–79. https://doi.org/10.1016/j.socscimed.2013.02.011
+
 [19] Ranjan Chaudhuri Sheshadri Chatterjee and Demetris Vrontis. 2022. Does remote work flexibility enhance organization performance? moderating
-role of organization policy and Top Management Support. Journal of Business Research 139 (February 2022), 1501–1512. https://doi.org/10.1016/j.
-jbusres.2021.10.069
+role of organization policy and Top Management Support. Journal of Business Research 139 (February 2022), 1501–1512. https://doi.org/10.1016/j.jbusres.2021.10.069
+
 [20] Elisabetta Mazzei Salvatore Zappalà Teresa Galanti, Gloria Guidetti and Ferdinando Toscano. 2021. Work from home during the COVID-19 Outbreak.
 Journal of Occupational Environmental Medicine 63, 7 (July 2021), 426–432. https://doi.org/10.1097/jom.0000000000002236
+
 [21] Gul Tokdemir. 2022. Software professionals during the COVID-19 pandemic in Turkey: Factors affecting their mental well-being and work
 engagement in the home-based work setting. Journal of Systems and Software 188 (June 2022), 111286. https://doi.org/10.1016/j.jss.2022.111286
 
