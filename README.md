@@ -264,5 +264,24 @@ Journal of Occupational Environmental Medicine 63, 7 (July 2021), 426–432. htt
 [21] Gul Tokdemir. 2022. Software professionals during the COVID-19 pandemic in Turkey: Factors affecting their mental well-being and work
 engagement in the home-based work setting. Journal of Systems and Software 188 (June 2022), 111286. https://doi.org/10.1016/j.jss.2022.111286
 
+### Code Map
+![](codeMap.png)
 
-![](codeMap.jpg)
+### Code Frequency
+![](codeFrequency.png)
+
+### Frequency Table
+![](frequencyTable.png)
+
+### Table 1
+![](table1.png)
+
+### Table 2
+![](table2.png)
+
+### Table 3
+![](table3.png)
+
+### Table 4
+![](table4.png)
+
